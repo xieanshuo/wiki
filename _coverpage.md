@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# 《梦》系列文章 <small>2023.4.24</small>
+# 《梦》系列文章 <small>2023.4</small>
 
 > 🐱‍🏍
 
