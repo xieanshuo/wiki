@@ -110,8 +110,31 @@
             loadFooter: true,
             loadFooter: '_footer.md'
         };
+
+</script>
+
+<script>
+    window.$docsify = {
+        // 白天/夜间模式切换
+        darklightTheme: {
+            defaultTheme: 'light',
+            siteFont: 'Source Sans Pro,Helvetica Neue,Arial,sans-serif',
+            codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
+            bodyFontSize: '16px',
+            dark: {
+                background: 'rgb(28,32,34)',
+                highlightColor: '#e96900',
+                codeBackgroundColor: 'rgb(34,39,46)',
+                codeTextColor: '#b4b4b4',
+            },
+            light: {
+                highlightColor: '#e96900',
+            }
+        };
     
     </script>
+
+
     <!-- docsify的js依赖 -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <!-- emoji表情支持 -->
@@ -133,6 +156,11 @@
 
     <!--在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码-->
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+
+    <!-- 白天/夜间模式切换 -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css">
+    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+
 </body>
 
 </html>
