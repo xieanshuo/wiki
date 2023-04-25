@@ -14,5 +14,5 @@
 [简体中文](/README.md)
 [繁體中文](/Docs/zh-CHT/夢.md)
 [English](/Docs/en/Dream.md)
-[Français)](/Docs/fr/LeRêve.md)
+[Français](/Docs/fr/LeRêve.md)
 [Pусский](/Docs/ru/ИЛЛЮЗИИ.md)
