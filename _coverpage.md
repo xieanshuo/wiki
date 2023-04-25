@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-# 《梦》系列文章 <small>2023.4</small>
+# 《梦》系列文章 <small>23.4.25</small>
 
-> 🐱‍🏍
+> ⭐ 
 
 - 是未来修行者树立宇宙观的基础
 - 未来渴望解脱的人，《梦》系列文章是基础
@@ -11,4 +11,8 @@
 - 能够确定，修行的方向与具体的方法
 
 
-[开始阅读](/README.md)
+[简体中文](/README.md)
+[繁體中文](/Docs/zh-CHT/夢.md)
+[English](/Docs/en/Dream.md)
+[Français)](/Docs/fr/LeRêve.md)
+[Pусский](/Docs/ru/ИЛЛЮЗИИ.md)
