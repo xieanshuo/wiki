@@ -1,3 +1,4 @@
+* [**简介**](/Docs/zh-CN/Brief.md)
 * **简体中文**
   * [梦](/Docs/zh-CN/梦.md)
   * [祂](/Docs/zh-CN/祂.md)
@@ -33,8 +34,7 @@
   * [引導文](/Docs/zh-CHT/引導文.md)
 * **English**
   * [Dream](/Docs/en/Dream.md)
-  * [Voluntary Translators Needed](/Docs/en/Needed.md)
 * **Français**
-  * [Le Rêve](/Docs/fr/LeRêve.md)
+  * [Le Rêve](/Docs/fr/dream.md)
 * **Pусский**
   * [ИЛЛЮЗИИ](/Docs/ru/ИЛЛЮЗИИ.md)

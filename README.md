@@ -2,6 +2,10 @@
 
 > #### 是诸佛心印，是智慧化身，是神灵之光，是究竟实地。
 
+[【PDF文章下载】](https://drive.google.com/drive/folders/1vUf_PnI7TMHCK3TLfAjI-GmsmjRuepvo?usp=sharing)<br>
+[【音频视频下载】](http://pan2.dcfofa.net/#s/8PmG6D2g&view=02%E3%80%8A%E6%A2%A6%E3%80%8B%E7%B3%BB%E5%88%97)
+
+* [**简介**](/Docs/zh-CN/Brief.md)
 * **简体中文**
   * [梦](/Docs/zh-CN/梦.md)
   * [祂](/Docs/zh-CN/祂.md)
@@ -18,7 +22,8 @@
   * [初见](/Docs/zh-CN/初见.md)
   * [初见（补充）](/Docs/zh-CN/初见（补充）.md)
   * [引导文](/Docs/zh-CN/引导文.md)
-  
+
+
 * **繁體中文**
   * [夢](/Docs/zh-CHT/夢.md)
   * [祂](/Docs/zh-CHT/祂.md)
@@ -38,8 +43,8 @@
 
 * **English**
   * [Dream](/Docs/en/Dream.md)
-  * [Voluntary Translators Needed](/Docs/en/Needed.md)
 * **Français**
-  * [Le Rêve](/Docs/fr/LeRêve.md)
+  * [Le Rêve](/Docs/fr/dream.md)
 * **Pусский**
   * [ИЛЛЮЗИИ](/Docs/ru/ИЛЛЮЗИИ.md)
+
